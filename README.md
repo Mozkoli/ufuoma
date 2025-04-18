@@ -1,1 +1,1 @@
-# ufuoma
+# ufuoma.ai
